@@ -1,0 +1,28 @@
+.list-header {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+
+  .pages-count {
+    font-size: 1.4rem;
+    color: grey;
+    font-weight: 700;
+  }
+
+  .page-info {
+    display: flex;
+    justify-content: space-between;
+
+    nav {
+      margin-left: 10px;
+    }
+  }
+
+  .page-item {
+    cursor: pointer;
+  }
+}
+
+.posts-column-name {
+  cursor: pointer ;
+}

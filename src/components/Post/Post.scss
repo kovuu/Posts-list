@@ -1,0 +1,9 @@
+.post-item {
+  min-height: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-item span {
+  flex: 1 1 auto;
+}
